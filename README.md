@@ -10,7 +10,10 @@ ____
 
 *
 Бесплатные:    
-https://ambientcg.com/    
+https://polyhaven.com/  
+https://ambientcg.com/   
+На данный момент статья только пишется, так что по всем сайтам естественно полазить не получилось, но сейчас вот эти два кажутся самыми лучшими 
+
 [BIS](https://bis.interplanety.org/) (по факту платный, лимиты очень урезаны)   
 https://www.sharetextures.com/  
 https://www.adobe.com/creativecloud/3d-augmented-reality.html   
